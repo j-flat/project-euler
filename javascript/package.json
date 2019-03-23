@@ -1,0 +1,35 @@
+{
+  "name": "euler-challenges-js",
+  "version": "1.0.0",
+  "description": "+50 first published Project Euler challenges, implemented using pure VanillaJS, with no outer dependencies other than test-frameworks and code profilers. Created using ES6+ features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/j-flat/project-euler.git"
+  },
+  "keywords": [
+    "project",
+    "euler",
+    "euler",
+    "programming",
+    "algorithms",
+    "javascript",
+    "vanilla",
+    "javascript",
+    "TDD",
+    "test",
+    "driven",
+    "development",
+    "code",
+    "profiling"
+  ],
+  "author": "Joni Kämppä",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/j-flat/project-euler/issues"
+  },
+  "homepage": "https://github.com/j-flat/project-euler#readme"
+}
