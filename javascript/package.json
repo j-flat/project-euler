@@ -4,7 +4,7 @@
   "description": "+50 first published Project Euler challenges, implemented using pure VanillaJS, with no outer dependencies other than test-frameworks and code profilers. Created using ES6+ features.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -31,5 +31,8 @@
   "bugs": {
     "url": "https://github.com/j-flat/project-euler/issues"
   },
-  "homepage": "https://github.com/j-flat/project-euler#readme"
+  "homepage": "https://github.com/j-flat/project-euler#readme",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
 }
